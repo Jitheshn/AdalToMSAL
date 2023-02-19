@@ -11,8 +11,8 @@ Please refer Readme files in respective folders for a detailed walkthrough on ho
 # Pre-requisite
 	
 		Java 8 - https://www.oracle.com/java/technologies/downloads/#java8-windows
-        Maven -  https://maven.apache.org/download.cgi
-			§ Installation Instructions: https://maven.apache.org/install.html
+        	Maven -  https://maven.apache.org/download.cgi
+		§ Installation Instructions: https://maven.apache.org/install.html
 		Apache Tomcat -Apache Tomcat® - https://tomcat.apache.org/download-80.cgi
 		(Since this is a legacy application, for compatibility, it requires Apache TomCat <= 9.x). For this demo verion 8.5 of TomCat server is used)
 		
