@@ -1,4 +1,4 @@
-# Project Structure
+## Project Structure
 		This project consists of following two folders. 
 			§ active-directory-java-webapp-openidconnect-ADAL
 			§ active-directory-java-webapp-openidconnect-MSAL
@@ -8,7 +8,7 @@
 Please refer Readme files in respective folders for a detailed walkthrough on how to configure the projects for execution in your environments
 
 
-# Pre-requisite
+## Pre-requisite
 	
 		Java 8 - https://www.oracle.com/java/technologies/downloads/#java8-windows
         	Maven -  https://maven.apache.org/download.cgi
@@ -18,4 +18,4 @@ Please refer Readme files in respective folders for a detailed walkthrough on ho
 		
 Refer the ADAL to MSAL migration guide: https://learn.microsoft.com/en-us/azure/active-directory/develop/migrate-adal-msal-java
 
-# Migration steps - Modify the source/configuration files as suggested below
+## Migration steps - Modify the source/configuration files as suggested below
