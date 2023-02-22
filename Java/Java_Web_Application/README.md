@@ -18,4 +18,4 @@ Please refer Readme files in respective folders for a detailed walkthrough on ho
 		
 Refer the ADAL to MSAL migration guide: https://learn.microsoft.com/en-us/azure/active-directory/develop/migrate-adal-msal-java
 
-## Migration steps - Modify the source/configuration files as suggested below
+## Migration steps - Modify the source/configuration files as suggested [here] (./Migrationsteps.htm)
